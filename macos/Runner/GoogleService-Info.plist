@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>308409644241-njjtm63ir2l08508qkdhgjqvlvqao2nu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.308409644241-njjtm63ir2l08508qkdhgjqvlvqao2nu</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>308409644241-mva9qadrog333v0ist3s44aqe4nu0sge.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB4UYyzeQ7xOrw3zSXsoawps33RdeEJhC0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>308409644241</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.cipherxExpenseTracker.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>com-cipherschools-assign-3eeb1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>com-cipherschools-assign-3eeb1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:308409644241:ios:f0e10143c4fbae36adc1f0</string>
+</dict>
+</plist>

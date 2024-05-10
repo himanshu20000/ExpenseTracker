@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "308409644241",
+    "project_id": "com-cipherschools-assign-3eeb1",
+    "storage_bucket": "com-cipherschools-assign-3eeb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308409644241:android:880dc6cb0d46b2a9adc1f0",
+        "android_client_info": {
+          "package_name": "com.example.cipherx_expense_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308409644241-mva9qadrog333v0ist3s44aqe4nu0sge.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cipherx_expense_tracker",
+            "certificate_hash": "c6028ab509d83ab758b2df607fec6291f4bde5b7"
+          }
+        },
+        {
+          "client_id": "308409644241-guchusfccte4gpet9mjp563fvjivtmhc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHkiK24kyKQE0pu-3V08X9OQLHEz5nseo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308409644241-guchusfccte4gpet9mjp563fvjivtmhc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "308409644241-njjtm63ir2l08508qkdhgjqvlvqao2nu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cipherxExpenseTracker.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
