@@ -5,8 +5,12 @@ CipherX Expense Tracker
 CipherX Expense Tracker is a Flutter application designed to help you track your expenses conveniently. It allows users to save their expenses locally using Hive database and provides Google Sign-In functionality for authentication. The app also utilizes the Provider package for state management and includes animations to enhance the user experience.
 
 
-Screenshot - (assets/Show.png)
+Screenshot -![image](https://github.com/himanshu20000/ExpenseTracker/assets/77045558/a8c9ee78-29a8-4d82-8005-5ae817834545)
+
+
 Showcase-Link :- https://drive.google.com/file/d/1LvO83Yh8wGOrZjSfiRFMt86I9Q74ikyu/view?usp=sharing
+
+
 Apk Link:- https://drive.google.com/file/d/1kGMCzMQUkAC0TGLzO2eLHlhlJUH9Ku8W/view?usp=sharing
 
 Features
