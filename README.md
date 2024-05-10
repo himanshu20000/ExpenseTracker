@@ -1,6 +1,4 @@
 
-Here's a formal README for your Flutter expense tracker app:
-
 CipherX Expense Tracker
 
 
